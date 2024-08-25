@@ -55,7 +55,6 @@ ROI measures the profitability of marketing campaigns by comparing the revenue g
 ### Tools Used:
 Excel
 Power BI
-Python
 SQL
 
 Data Collection and Preparation:
